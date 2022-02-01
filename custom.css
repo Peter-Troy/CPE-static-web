@@ -5,7 +5,7 @@ body {
 
 .trn {
   color: rgb(175, 29, 29);
-  background: url("../src/hero.jpg") fixed;
+  background: url("hero.jpg") fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -61,7 +61,7 @@ body {
 }
 
 .parallax2 {
-  background: url("../src/hero.jpg") fixed;
+  background: url("hero.jpg") fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
